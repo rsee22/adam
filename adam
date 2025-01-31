@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi Portafolio</h1>
+    </header>
+
+    <section>
+        <h2>Sobre mí</h2>
+        <p>Hola, soy [Tu Nombre], un [tu especialidad].</p>
+    </section>
+
+    <section>
+        <h2>Mis Proyectos</h2>
+        <ul>
+            <li><a href="https://github.com/mi-repositorio1">Proyecto 1</a></li>
+            <li><a href="https://github.com/mi-repositorio2">Proyecto 2</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contacto: <a href="mailto:tu-email@ejemplo.com">tu-email@ejemplo.com</a></p>
+    </footer>
+</body>
+</html>
